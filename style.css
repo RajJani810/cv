@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(141, 125, 194);
+  }
+  h1{
+    color: #1A4D2E;
+    text-align: center;
+  }
+
+  h3{
+    color: #1A4D2E;
+    text-align: center;
+  }
+  h4{
+    color: #1A4D2E;
+    text-align: center;
+  }
+
+  hr{
+   
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
